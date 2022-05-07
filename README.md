@@ -1,3 +1,7 @@
+### 👋 Hello
+
+##
+
 ### 🎓 Education
 
 - Sangoknam Middle School (2017.03 ~ 2019.02)
